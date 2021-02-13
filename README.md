@@ -27,7 +27,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Had trouble making the user signout of the session. Had to remake emulator to get login screen to appear again.
+Logout button functionality works after killing app by pressing the back button to restart it.
 
 ## Open-source libraries used
 
