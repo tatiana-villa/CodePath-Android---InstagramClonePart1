@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Instagram Clone</string>
+    <string name="login">Login</string>
+    <string name="username" />
+    <string name="button" />
+    <string name="textview" />
+    <string name="etUsername" />
+
+</resources>
