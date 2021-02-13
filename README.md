@@ -1,4 +1,5 @@
-Instagram Clone
+## Instagram Clone
+
 The following **required** functionality is completed:
 
 - [X] User can sign up to create a new account using Parse authentication.
