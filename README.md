@@ -27,7 +27,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had trouble making the user signout of the session. Had to remake emulator to get login screen to appear again.
 
 ## Open-source libraries used
 
