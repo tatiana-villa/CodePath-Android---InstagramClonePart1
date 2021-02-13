@@ -27,7 +27,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Logout button functionality works after killing app by pressing the back button to restart it.
+## *Note about Logout Button* 
+
+In order to see logout button's functionality kill the app by pressing the back button to restart it to see login screen again.
 
 ## Open-source libraries used
 
